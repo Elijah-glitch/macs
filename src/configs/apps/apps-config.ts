@@ -66,7 +66,7 @@ const viewSource = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://github.com/puruvj/macos-web', '_blank'),
+  externalAction: () => window.open('https://roblox.com', '_blank'),
 });
 
 const ukraine = createAppConfig({
@@ -74,7 +74,7 @@ const ukraine = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://www.stopputin.net/', '_blank'),
+  externalAction: () => window.open('https://www.tcapsmovies.site/', '_blank'),
 
   dockBreaksBefore: true,
 });
