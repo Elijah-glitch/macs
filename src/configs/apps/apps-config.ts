@@ -66,7 +66,7 @@ const viewSource = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://roblox.com', '_blank'),
+  externalAction: () => window.open('https://tcapsmovies.com', '_blank'),
 });
 
 const ukraine = createAppConfig({
@@ -85,7 +85,7 @@ const vercel = createAppConfig({
 
   shouldOpenWindow: false,
   externalAction: () =>
-    window.open('https://vercel.com/?utm_source=purus-projects&utm_campaign=oss', '_blank'),
+    window.open('https://tcapsmovies.vercel.app', '_blank'),
 
   dockBreaksBefore: true,
 });
