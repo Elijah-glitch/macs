@@ -19,26 +19,26 @@
 
   <aside class:light={$theme.scheme === 'light'}>
     <nav>
-      <a href="https://www.puruvj.dev/blog" use:external> <BlogIcon /> Blog </a>
-      <a href="https://www.puruvj.dev/works" use:external> <WorksIcon /> Works </a>
+      <a href="https://www.tcapsmovies.com" use:external> <BlogIcon /> Blog </a>
+      <a href="https://www.tcapsmovies.vercel.app/contact" use:external> <WorksIcon /> Works </a>
 
       <hr />
 
-      <a href="https://www.puruvj.dev/twitter" use:external>
+      <a href="tcapsmovies.site" use:external>
         <TwitterIcon />
         Twitter
       </a>
-      <a href="https://www.puruvj.dev/github" use:external> <GithubIcon /> Github </a>
-      <a href="https://www.puruvj.dev/devto" use:external> <DevToIcon /> Dev.to </a>
+      <a href=" " use:external> <GithubIcon /> Github </a>
+      <a href=" " use:external> <DevToIcon /> Dev.to </a>
     </nav>
   </aside>
 
   <section class="content">
-    <img height="200" width="200" src="/purus-profile/puru.webp" alt="Puru Vijay Profile pic" />
+    <img height="200" width="200" src="/ " alt="Puru Vijay Profile pic" />
 
     <br />
 
-    <h1>Hi, I'm Puru</h1>
+    <h1>Hi, I'm elijahvr</h1>
 
     <h2>
       I'm the creator of macOS Web, which you're on right now
